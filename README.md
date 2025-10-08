@@ -1,35 +1,60 @@
-Hi 👋 My name is Vlad Bogatyrev
-===============================
+# Vladislav Bogatyrev - Software Engineer 🚀
 
-Junior frontend developer
--------------------------
+🌟 **Passionate about Frontend Development | Love for Coding | GitHub Enthusiast** 🌟
 
-Former winemaker, claims specialist and current helpdesk specialist. But thanks to your solution - a future junior developer! Nice to meet you, I'm Vlad and I'll be happy to tell you more about myself!
+---
 
-* 🌍  I'm based in Moscow
-* ✉️  You can contact me at [vladislav.bogatyrev@gmail.com](mailto:vladislav.bogatyrev@gmail.com)
-* 🧠  I'm learning Websockets, NestJS, ReactJS
-* ⚡  You can bribe me with good wine... but I didn't say anything
+## About Me 👨‍💻
 
-### Skills
+🍇 Former Winemaker turned Software Engineer, diving into the tech world with curiosity and dedication. Transitioning skills from winemaking to coding, embracing the challenges and opportunities that come my way.
 
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-</p>
+## Skills & Technologies 💻
 
+🚀 **Tech Stack:** TypeScript, JavaScript
+🎨 **Additional Skills:** CSS, HTML
+🛠 **Tools:** Node.js, React
+🔒 **Focus:** Security Upgrades, Code Quality
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.facebook.com/thevladbog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/thevladbog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/thevladbog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thevladbog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## GitHub Activity 📊
 
-### Badges
+🔧 **Total Commits:** 468
+📦 **Repositories Worked On:** 217
+🛠 **Prominent Language:** TypeScript
+🤝 **Collaborative Spirit:** Engaging in diverse projects
 
-<a href="https://github.com/thevladbog" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevladbog&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## Contact Me 📫
+
+📧 **Email:** hello@v-b.tech
+🐦 **Telegram:** @thevladbog
+
+---
+
+## Stay Connected 🌐
+
+🔗 **[GitHub Profile](https://github.com/thevladbog)**
+
+---
+
+## Stats 📈
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=thevladbog)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevladbog)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thevladbog)](https://git.io/streak-stats)
+
+---
+
+## Summary 🌟
+
+🌟 With a diverse skill set and a passion for frontend development, I am on a journey of continuous learning, exploration, and collaboration. Join me in shaping the future of technology!
+
+---
+
+🚀 Let's build the future together! 🚀
