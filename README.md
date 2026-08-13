@@ -65,7 +65,6 @@ Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, seri
   <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&amp;logo=react&amp;logoColor=C9A227" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&amp;logo=typescript&amp;logoColor=C9A227" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-111827?style=flat-square&amp;logo=nestjs&amp;logoColor=C9A227" />
-  <br />
   <img alt="Tauri" src="https://img.shields.io/badge/Tauri-111827?style=flat-square&amp;logo=tauri&amp;logoColor=C9A227" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&amp;logo=postgresql&amp;logoColor=C9A227" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-111827?style=flat-square&amp;logo=sqlite&amp;logoColor=C9A227" />
@@ -195,22 +194,7 @@ Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, seri
 
 ## Production proof
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <p><img alt="14 offices" src="https://img.shields.io/badge/14-OFFICES-C9A227?style=for-the-badge&amp;labelColor=111827" /></p>
-      <p><sub>queue platform deployment</sub></p>
-    </td>
-    <td width="34%" align="center" valign="top">
-      <p><img alt="36 live queues" src="https://img.shields.io/badge/36-LIVE_QUEUES-C9A227?style=for-the-badge&amp;labelColor=111827" /></p>
-      <p><sub>real-time queue operations</sub></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <p><img alt="4 operational products" src="https://img.shields.io/badge/4-OPERATIONAL_PRODUCTS-C9A227?style=for-the-badge&amp;labelColor=111827" /></p>
-      <p><sub>frontend ownership at Yandex</sub></p>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/thevladbog/thevladbog/main/assets/production-proof.svg" alt="Production proof: 14 offices, 36 live queues, and 4 operational products" width="100%" />
 
 At **Yandex**, I build internal products for office inspections, lockers, vending terminals, digital reception, and queue workflows. Previously, I worked at **Kaspersky** and **Sberbank**.
 
