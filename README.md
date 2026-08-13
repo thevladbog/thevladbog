@@ -81,7 +81,7 @@ Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, seri
   <tr>
     <td width="50%" valign="top">
       <p><img alt="02 Queue operations" src="https://img.shields.io/badge/02-QUEUE_OPERATIONS-C9A227?style=flat-square&labelColor=111827" /></p>
-      <h3><a href="https://github.com/thevladbog/quokkaq"><img src="./assets/projects/quokkaq.svg" alt="QuokkaQ logo" width="32" height="32" align="middle" /></a>&nbsp;<a href="https://github.com/thevladbog/quokkaq">QuokkaQ</a></h3>
+      <h3><a href="https://github.com/thevladbog/quokkaq"><img src="./assets/projects/quokkaq.png" alt="QuokkaQ logo" width="32" height="32" align="middle" /></a>&nbsp;<a href="https://github.com/thevladbog/quokkaq">QuokkaQ</a></h3>
       <p><strong>Real-time customer flow across branches.</strong></p>
       <p>Booking, self-service kiosks, operator workstations, public displays, skill-based routing, SSO, billing, reporting, and integrations in one multi-tenant platform.</p>
       <p>
