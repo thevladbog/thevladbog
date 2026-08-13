@@ -23,7 +23,7 @@
 
 ---
 
-<table>
+<table width="100%">
   <tr>
     <td width="62%" valign="top">
       <h2>From screen to real world</h2>
@@ -61,27 +61,53 @@
 
 Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, serialization, aggregation, label printing, employee pickup, and operational audit. Device-local journals keep the line moving; bad input is rejected at the edge; recovery stays explicit when connectivity or hardware fails.
 
-`React` · `TypeScript` · `NestJS` · `Tauri` · `PostgreSQL` · `SQLite`
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&amp;logo=react&amp;logoColor=C9A227" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&amp;logo=typescript&amp;logoColor=C9A227" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-111827?style=flat-square&amp;logo=nestjs&amp;logoColor=C9A227" />
+  <br />
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-111827?style=flat-square&amp;logo=tauri&amp;logoColor=C9A227" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&amp;logo=postgresql&amp;logoColor=C9A227" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-111827?style=flat-square&amp;logo=sqlite&amp;logoColor=C9A227" />
+</p>
 
 <br />
 
 ## The product line
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <p><img alt="02 Queue operations" src="https://img.shields.io/badge/02-QUEUE_OPERATIONS-C9A227?style=flat-square&labelColor=111827" /></p>
       <h3><a href="https://github.com/thevladbog/quokkaq">QuokkaQ</a></h3>
       <p><strong>Real-time customer flow across branches.</strong></p>
       <p>Booking, self-service kiosks, operator workstations, public displays, skill-based routing, SSO, billing, reporting, and integrations in one multi-tenant platform.</p>
-      <p><code>Next.js</code> · <code>Go</code> · <code>Tauri</code><br /><code>PostgreSQL</code> · <code>Redis</code> · <code>WebSocket</code></p>
+      <p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&amp;logo=nextdotjs&amp;logoColor=C9A227" />
+  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&amp;logo=react&amp;logoColor=C9A227" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-111827?style=flat-square&amp;logo=go&amp;logoColor=C9A227" />
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-111827?style=flat-square&amp;logo=tauri&amp;logoColor=C9A227" />
+  <br />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&amp;logo=postgresql&amp;logoColor=C9A227" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-111827?style=flat-square&amp;logo=redis&amp;logoColor=C9A227" />
+  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-111827?style=flat-square&amp;logoColor=C9A227" />
+</p>
     </td>
     <td width="50%" valign="top">
       <p><img alt="03 Event operations" src="https://img.shields.io/badge/03-EVENT_OPERATIONS-C9A227?style=flat-square&labelColor=111827" /></p>
       <h3><a href="https://github.com/thevladbog/idento">Idento</a></h3>
       <p><strong>From CSV to checked-in guest and printed badge.</strong></p>
       <p>Visual badge design, QR/barcode check-in, an offline-first Android app for the entrance, and a local agent for USB, Bluetooth, and Ethernet printers.</p>
-      <p><code>React</code> · <code>Go</code> · <code>Kotlin</code><br /><code>PostgreSQL</code> · <code>Redis</code> · <code>Printing agent</code></p>
+      <p>
+  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&amp;logo=react&amp;logoColor=C9A227" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&amp;logo=typescript&amp;logoColor=C9A227" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-111827?style=flat-square&amp;logo=go&amp;logoColor=C9A227" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-111827?style=flat-square&amp;logo=kotlin&amp;logoColor=C9A227" />
+  <br />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&amp;logo=postgresql&amp;logoColor=C9A227" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-111827?style=flat-square&amp;logo=redis&amp;logoColor=C9A227" />
+  <img alt="Printing agent" src="https://img.shields.io/badge/Printing_agent-111827?style=flat-square&amp;logoColor=C9A227" />
+</p>
     </td>
   </tr>
   <tr>
@@ -93,7 +119,14 @@ Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, seri
       <h3><a href="https://github.com/thevladbog/scanio">Scanio</a></h3>
       <p><strong>See exactly what a barcode scanner sends.</strong></p>
       <p>Local Windows diagnostics with COM and keyboard-scanner modes, raw/hex capture, framing analysis, GS1 and IATA parsing, notebook sessions, and reproducible exports.</p>
-      <p><code>C#</code> · <code>.NET</code> · <code>WPF</code><br /><code>SQLite</code> · <code>Windows SetupAPI</code></p>
+      <p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-111827?style=flat-square&amp;logo=dotnet&amp;logoColor=C9A227" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-111827?style=flat-square&amp;logo=dotnet&amp;logoColor=C9A227" />
+  <img alt="WPF" src="https://img.shields.io/badge/WPF-111827?style=flat-square&amp;logo=windows&amp;logoColor=C9A227" />
+  <br />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-111827?style=flat-square&amp;logo=sqlite&amp;logoColor=C9A227" />
+  <img alt="Windows SetupAPI" src="https://img.shields.io/badge/Windows_SetupAPI-111827?style=flat-square&amp;logo=windows&amp;logoColor=C9A227" />
+</p>
     </td>
     <td width="50%" valign="top">
       <p>
@@ -103,14 +136,22 @@ Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, seri
       <h3><a href="https://github.com/thevladbog/puntiro">Puntiro</a></h3>
       <p><strong>Shipment labels without printer chaos.</strong></p>
       <p>Currently building the design system, accessible kiosk patterns, visual regression suite, and secure cloud identity/tenancy foundation for the wider platform.</p>
-      <p><code>React</code> · <code>TypeScript</code> · <code>Storybook</code><br /><code>Playwright</code> · <code>.NET</code> · <code>PostgreSQL</code></p>
+      <p>
+  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&amp;logo=react&amp;logoColor=C9A227" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&amp;logo=typescript&amp;logoColor=C9A227" />
+  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-111827?style=flat-square&amp;logo=storybook&amp;logoColor=C9A227" />
+  <br />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-111827?style=flat-square&amp;logo=playwright&amp;logoColor=C9A227" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-111827?style=flat-square&amp;logo=dotnet&amp;logoColor=C9A227" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&amp;logo=postgresql&amp;logoColor=C9A227" />
+</p>
     </td>
   </tr>
 </table>
 
 ## The build signature
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <h3>Resilient by default</h3>
@@ -154,19 +195,19 @@ Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, seri
 
 ## Production proof
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center">
-      <h2>14</h2>
-      <p><strong>offices</strong><br /><sub>served by a queue platform</sub></p>
+    <td width="33%" align="center" valign="top">
+      <p><img alt="14 offices" src="https://img.shields.io/badge/14-OFFICES-C9A227?style=for-the-badge&amp;labelColor=111827" /></p>
+      <p><sub>queue platform deployment</sub></p>
     </td>
-    <td width="34%" align="center">
-      <h2>36</h2>
-      <p><strong>live queues</strong><br /><sub>with real-time operations</sub></p>
+    <td width="34%" align="center" valign="top">
+      <p><img alt="36 live queues" src="https://img.shields.io/badge/36-LIVE_QUEUES-C9A227?style=for-the-badge&amp;labelColor=111827" /></p>
+      <p><sub>real-time queue operations</sub></p>
     </td>
-    <td width="33%" align="center">
-      <h2>4</h2>
-      <p><strong>operational products</strong><br /><sub>owned across the frontend</sub></p>
+    <td width="33%" align="center" valign="top">
+      <p><img alt="4 operational products" src="https://img.shields.io/badge/4-OPERATIONAL_PRODUCTS-C9A227?style=for-the-badge&amp;labelColor=111827" /></p>
+      <p><sub>frontend ownership at Yandex</sub></p>
     </td>
   </tr>
 </table>
