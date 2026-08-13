@@ -54,7 +54,7 @@
 </p>
 
 <h3>
-  <a href="https://github.com/thevladbog/markiro"><img src="https://raw.githubusercontent.com/thevladbog/markiro/main/docs/design-briefs/design_handoff_markiro/design-system/assets/mark.svg" alt="Markiro logo" width="32" height="32" align="middle" /></a>&nbsp;
+  <a href="https://github.com/thevladbog/markiro"><img src="./assets/projects/markiro.svg" alt="Markiro logo" width="32" height="32" align="middle" /></a>&nbsp;
   <a href="https://github.com/thevladbog/markiro">Markiro</a> — production never waits for the network
 </h3>
 
@@ -81,7 +81,7 @@ Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, seri
   <tr>
     <td width="50%" valign="top">
       <p><img alt="02 Queue operations" src="https://img.shields.io/badge/02-QUEUE_OPERATIONS-C9A227?style=flat-square&labelColor=111827" /></p>
-      <h3><a href="https://github.com/thevladbog/quokkaq"><img src="https://raw.githubusercontent.com/thevladbog/quokkaq/main/apps/frontend/public/logo-circle.svg" alt="QuokkaQ logo" width="32" height="32" align="middle" /></a>&nbsp;<a href="https://github.com/thevladbog/quokkaq">QuokkaQ</a></h3>
+      <h3><a href="https://github.com/thevladbog/quokkaq"><img src="./assets/projects/quokkaq.svg" alt="QuokkaQ logo" width="32" height="32" align="middle" /></a>&nbsp;<a href="https://github.com/thevladbog/quokkaq">QuokkaQ</a></h3>
       <p><strong>Real-time customer flow across branches.</strong></p>
       <p>Booking, self-service kiosks, operator workstations, public displays, skill-based routing, SSO, billing, reporting, and integrations in one multi-tenant platform.</p>
       <p>
@@ -97,7 +97,7 @@ Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, seri
     </td>
     <td width="50%" valign="top">
       <p><img alt="03 Event operations" src="https://img.shields.io/badge/03-EVENT_OPERATIONS-C9A227?style=flat-square&labelColor=111827" /></p>
-      <h3><a href="https://github.com/thevladbog/idento"><img src="https://raw.githubusercontent.com/thevladbog/idento/main/web/public/logo-mark.svg" alt="Idento logo" width="32" height="32" align="middle" /></a>&nbsp;<a href="https://github.com/thevladbog/idento">Idento</a></h3>
+      <h3><a href="https://github.com/thevladbog/idento"><img src="./assets/projects/idento.svg" alt="Idento logo" width="32" height="32" align="middle" /></a>&nbsp;<a href="https://github.com/thevladbog/idento">Idento</a></h3>
       <p><strong>From CSV to checked-in guest and printed badge.</strong></p>
       <p>Visual badge design, QR/barcode check-in, an offline-first Android app for the entrance, and a local agent for USB, Bluetooth, and Ethernet printers.</p>
       <p>
@@ -118,7 +118,7 @@ Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, seri
         <img alt="04 Diagnostic tooling" src="https://img.shields.io/badge/04-DIAGNOSTIC_TOOLING-C9A227?style=flat-square&labelColor=111827" />
         <img alt="Beta" src="https://img.shields.io/badge/BETA-111827?style=flat-square" />
       </p>
-      <h3><a href="https://github.com/thevladbog/scanio"><img src="https://raw.githubusercontent.com/thevladbog/scanio/main/src/Scanio.Presentation/Assets/scanio-app-icon-64.png" alt="Scanio logo" width="32" height="32" align="middle" /></a>&nbsp;<a href="https://github.com/thevladbog/scanio">Scanio</a></h3>
+      <h3><a href="https://github.com/thevladbog/scanio"><img src="./assets/projects/scanio.png" alt="Scanio logo" width="32" height="32" align="middle" /></a>&nbsp;<a href="https://github.com/thevladbog/scanio">Scanio</a></h3>
       <p><strong>See exactly what a barcode scanner sends.</strong></p>
       <p>Local Windows diagnostics with COM and keyboard-scanner modes, raw/hex capture, framing analysis, GS1 and IATA parsing, notebook sessions, and reproducible exports.</p>
       <p>
@@ -135,7 +135,7 @@ Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, seri
         <img alt="05 Shipping infrastructure" src="https://img.shields.io/badge/05-SHIPPING_INFRASTRUCTURE-C9A227?style=flat-square&labelColor=111827" />
         <img alt="Building" src="https://img.shields.io/badge/BUILDING-111827?style=flat-square" />
       </p>
-      <h3><a href="https://github.com/thevladbog/puntiro"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thevladbog/puntiro/codex/puntiro-repository-foundation/apps/storybook/public/puntiro-mark-on-dark.svg" /><img src="https://raw.githubusercontent.com/thevladbog/puntiro/codex/puntiro-repository-foundation/brandbook/assets/puntiro-mark.svg" alt="Puntiro logo" width="32" height="32" align="middle" /></picture></a>&nbsp;<a href="https://github.com/thevladbog/puntiro">Puntiro</a></h3>
+      <h3><a href="https://github.com/thevladbog/puntiro"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/puntiro-dark.svg" /><img src="./assets/projects/puntiro.svg" alt="Puntiro logo" width="32" height="32" align="middle" /></picture></a>&nbsp;<a href="https://github.com/thevladbog/puntiro">Puntiro</a></h3>
       <p><strong>Shipment labels without printer chaos.</strong></p>
       <p>Currently building the design system, accessible kiosk patterns, visual regression suite, and secure cloud identity/tenancy foundation for the wider platform.</p>
       <p>
