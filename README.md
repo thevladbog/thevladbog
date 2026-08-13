@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thevladbog/thevladbog/main/thevladbog-koi.svg" alt="Koi — personal crest of Vlad Bogatyrev" width="350" />
+<img src="https://raw.githubusercontent.com/thevladbog/thevladbog/main/thevladbog-koi.svg" alt="Koi — personal crest of Vlad Bogatyrev" width="300" />
 
-# Vladislav Bogatyrev
+# Vlad Bogatyrev
 
-**Frontend Engineer** · TypeScript by day · ideas fermenting 24/7
+**Product Engineer building reliable software for physical operations.**
+
+Offline-first systems · terminals & kiosks · barcode scanning · printing · real-time workflows
 
 [![Telegram](https://img.shields.io/badge/-@thevladbog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thevladbog)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevladbog/)
@@ -14,134 +16,75 @@
 
 ---
 
-## 🍇 → 💻  Act I: The Plot Twist
+## Software that has to work outside the browser
 
-I used to make wine. Real wine — grapes, barrels, humidity, waiting. Then I discovered that **writing code hits the same dopamine loop**: pick the right ingredients, find the perfect balance, iterate until it's something you're proud of.
+I turn messy operational workflows into complete products — from interaction design and domain rules to APIs, device software, deployment, and recovery paths.
 
-The winemaking stopped. The obsession with craft didn't.
+My strongest work lives where software meets the physical world: factory lines, service desks, event entrances, scanners, printers, kiosks, and unreliable networks.
 
-Now I build interfaces. React and TypeScript are my grapes of choice, and I still have zero patience for things that are just *almost* right.
+> Winemaker by education. Product Engineer by practice. I still care about process, consistency, and what happens outside the happy path.
 
----
+## Flagship products
 
-## ⚙️  Act II: The Stack
+### [Markiro](https://github.com/thevladbog/markiro) — offline-first production & traceability
 
-```typescript
-const vlad: Developer = {
-  role:       "Frontend Engineer",
-  core:       ["TypeScript", "React", "JavaScript", "Node.js"],
-  also:       ["Go", "Tauri", "Kotlin"],  // when the product demands it
-  markup:     ["HTML", "CSS"],
-  focus:      ["DX", "UI architecture", "code quality", "things that actually work"],
-  currently:  "building something worth shipping",
-  location:   "Russia 🇷🇺  ·  UTC+3",
-  contact:    "hello@v-b.tech  ·  @thevladbog",
-};
-```
+Industrial platform for Russian Chestny ZNAK workflows: line-side scanning, serialization, aggregation, label printing, employee pickup, and operational audit. Device-local journals keep production moving, bad input is rejected at the edge, and recovery remains explicit when connectivity or hardware fails.
 
----
+`React · TypeScript · NestJS · Tauri · PostgreSQL · SQLite`
 
-## 🚀  Act III: The Work
+### [QuokkaQ](https://github.com/thevladbog/quokkaq) — real-time queue management
 
-Three products. Each one a different problem worth solving.
+Multi-tenant platform for managing customer flow across branches and service units. It combines booking, self-service kiosks, operator workstations, public displays, skill-based routing, SSO, billing, reporting, and external integrations in one product.
 
----
+`Next.js · React · Go · Tauri · PostgreSQL · Redis · WebSocket`
 
-### 🐨 [QuokkaQ](https://github.com/thevladbog/quokkaq) — Queue Management System
+### [Idento](https://github.com/thevladbog/idento) — event check-in & badge printing
 
-> *Because waiting in line is a solved problem — just nobody bothered yet.*
+End-to-end event operations from flexible CSV import and visual badge design to QR/barcode check-in and direct printer control. Includes an offline-first Android app for the entrance and a local Go agent for USB, Bluetooth, and Ethernet printers.
 
-Full-stack queue management for organizations with multiple service windows. Built as an **Nx monorepo** — web admin, Go backend, and a **Tauri kiosk app** with thermal printer support all living under one roof.
+`React · TypeScript · Go · Kotlin · PostgreSQL · Redis`
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### [Scanio](https://github.com/thevladbog/scanio) — barcode scanner diagnostics for Windows
 
----
+A local diagnostic utility for seeing exactly what a scanner sends. It supports COM and focused keyboard-scanner modes, raw/hex capture, framing analysis, GS1 and IATA parsing, persistent notebook sessions, and reproducible exports — with no accounts, cloud sync, or telemetry.
 
-### 🎟️ [Idento](https://github.com/thevladbog/idento) — Event Check-in & Badge Printing
+`C# · .NET · WPF · SQLite · Windows SetupAPI`
 
-> *From CSV to printed badge in three clicks. Offline-ready, printer-friendly.*
+### [Puntiro](https://github.com/thevladbog/puntiro) — shipment-label platform
 
-Event registration system with a visual badge editor, QR check-in, and hardware printer integration. Upload any CSV — the system figures out the structure. Includes a **Kotlin Android app** for offline-first mobile check-in and a **Go printing agent** for direct USB/Bluetooth/Ethernet printer control.
+A shipment-label product in active development. The public foundation currently covers the design system, accessible kiosk patterns, executable Storybook documentation, visual regression testing, and a secure .NET/PostgreSQL identity and tenancy boundary.
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+`React · TypeScript · Storybook · Playwright · .NET · PostgreSQL`
 
----
+## What I optimize for
 
-### 🍾 BOTTLE \[CODE\] — Production Platform for Beverage Manufacturers
+- **Operational resilience** — interrupted networks and degraded devices are normal states, not edge cases.
+- **Shared domain rules** — validation, permissions, and state transitions behave consistently across every surface.
+- **Hardware-aware UX** — scanners, printers, touchscreens, and kiosks are first-class parts of the product.
+- **Traceability and recovery** — failures are explicit, auditable, and safe to resume.
+- **Evidence over confidence** — automated checks are comprehensive; real-device and manual gates stay honest.
 
-> *Where the winemaker in me finally met the engineer.*
+## Toolbox
 
-End-to-end production management for breweries, cideries, and craft producers — from raw ingredient to labelled bottle. Tracks vessels and fermentation batches in real time, integrates lab measurements against recipe norms, manages shift tasks, and handles serialization with **EGAIS** and **Честный Знак** compliance built in.
+| Area | Technologies |
+| --- | --- |
+| Product surfaces | TypeScript, React, Next.js, Vite, Tauri, Kotlin / Compose, C# / WPF |
+| Backend & realtime | Go, Node.js / NestJS, .NET, REST / OpenAPI, WebSocket / SSE |
+| Data & infrastructure | PostgreSQL, Redis, SQLite, S3 / MinIO, Docker, Kubernetes, CI/CD |
+| Quality | Playwright, Storybook, Vitest / Jest, contract, integration, and visual testing |
 
-Includes a mobile app (Kotlin Multiplatform, offline-first) for floor operators, and a read-only production board designed for wall screens. Multi-tenant SaaS architecture with modular licensing — customers buy only the contours they need.
+## Professional context
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white)
-![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+At Yandex, I build internal operational software for tablets, lockers, vending terminals, digital reception, and queue workflows. One real-time queue platform grew to serve **14 offices and 36 queues**. Previously, I worked at Kaspersky and Sberbank.
 
----
-
-## 📊  The receipts
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="6">
-    <tr>
-      <td align="center" valign="top">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=thevladbog&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevladbog&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thevladbog&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐟  About the crest
-
-The koi in my logo isn't decoration. In Japanese tradition, koi swim *upstream* — against current, without shortcuts. That's the only way I know how to build things: forward, persistent, a little stubborn.
-
----
-
-## 📬  Reach me
-
-- **Fastest** → Telegram [@thevladbog](https://t.me/thevladbog)
-- **Formal** → [hello@v-b.tech](mailto:hello@v-b.tech)
-- **Professional history** → [LinkedIn](https://www.linkedin.com/in/thevladbog/)
+My role is usually broader than a single layer: understand the workflow, remove invalid states, design the interaction, define the contract, implement the system, and own how it behaves in production.
 
 ---
 
 <div align="center">
 
-*A codebase, like a good wine, improves with time.*  
-*But only if you actually commit to it.*
+**Have an operational problem that needs a real product?**
 
-<br/>
-
-<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=thevladbog&repo=thevladbog&countColor=%232CA5E0" alt="Visitor count" />
+[Telegram](https://t.me/thevladbog) · [Email](mailto:hello@v-b.tech) · [LinkedIn](https://www.linkedin.com/in/thevladbog/)
 
 </div>
